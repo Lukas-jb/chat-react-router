@@ -6,13 +6,14 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyDaqpMBfiEjdMayRNpgQ9bjaH7wfubSY48",
-  authDomain: "app-chat-react-44023.firebaseapp.com",
-  projectId: "app-chat-react-44023",
-  storageBucket: "app-chat-react-44023.appspot.com",
-  messagingSenderId: "1000714652626",
-  appId: "1:1000714652626:web:fcd5f236ae2b7fef95d60b",
-  measurementId: "G-P41VX8R9CN"
+  apiKey: "AIzaSyBRSIIEhGAw2Fewi1KXa1D88Vrej3-aOeI",
+  authDomain: "app-chat-chatsofka.firebaseapp.com",
+  databaseURL: "https://app-chat-chatsofka-default-rtdb.firebaseio.com",
+  projectId: "app-chat-chatsofka",
+  storageBucket: "app-chat-chatsofka.appspot.com",
+  messagingSenderId: "242294604502",
+  appId: "1:242294604502:web:d3a28e6f9a0938cd81ff77",
+  measurementId: "G-7QZKYT7P90"
 };
 
 // Initialize Firebase
